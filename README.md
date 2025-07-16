@@ -35,7 +35,7 @@ Godofanime/
 1. Clone the Repository  
    ```bash
    git clone https://github.com/AtulRanjanJha/Godofanime.git  
-   cd Godofnime  
+   cd Godofanime  
    ```
 
 2. Install Dependencies  
