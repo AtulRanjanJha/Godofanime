@@ -72,7 +72,79 @@ Update the `AnimeService.ts` file to point to your desired API endpoint.
 ## 📄 License  
 This project is licensed under the MIT License.
 
-## ⚠️ Disclaimer:
-This project is a prototype and does not include all anime titles. Currently, the following anime are available:
-- One Punch Man  
-- Attack on Titan (AOT)  
+---
+
+## ⚠️ Disclaimer
+This project is a prototype and does not include all anime titles & videos. Currently, the following animes videos are available:
+
+- 365 Days to the Wedding  
+- A Silent Voice  
+- A Whisker Away  
+- Attack on titan  
+- Attack on Titan: Chronicle  
+- Attack on Titan: THE LAST ATTACK  
+- Batman Ninja vs. Yakuza League  
+- Berserk: The Golden Age Arc III - The Advent  
+- Black bullet  
+- Bubble  
+- Cowboy Bebop: The Movie  
+- Dandadan  
+- Demon Slayer: Kimetsu no Yaiba  
+- Demon Slayer: Kimetsu no Yaiba -To the Hashira Training  
+- Dragon Ball Z: Broly - The Legendary Super Saiyan  
+- Dragon Ball Z: Resurrection 'F'  
+- Erased  
+- Girls' Last Tour  
+- Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway  
+- Horimiya season 1  
+- Horimiya the missing pieces  
+- I Want to Eat Your Pancreas  
+- I'm Getting Married to a Girl I Hate in My Class  
+- In This Corner of the World  
+- Insomniacs After School  
+- Josee, the Tiger and the Fish  
+- Jujutsu Kaisen 0  
+- jujutsu kaisen  
+- Komi Can't Communicate  
+- Look Back  
+- Love Flops  
+- Mary and the Witch's_Flower  
+- Mirai  
+- Modest Heroes  
+- My Happy Marriage  
+- My Oni Girl  
+- ONE PUNCH MAN  
+- OVERLORD: The Sacred Kingdom  
+- Possibly the Greatest Alchemist of All Time  
+- Re:ZERO -Starting Life in Another World  
+- Re:Zero - Starting Life in Another World Memory Snow  
+- Re:Zero - Starting Life in Another World The Frozen Bond  
+- Rent a girlfriend  
+- Ride Your Wave  
+- Shangri-La Frontier  
+- Solo Levelling  
+- Solo Levelling reawaekening  
+- Summer Time Rendering  
+- The Apothecary Diaries  
+- The Garden of Words  
+- The Girl Who Leapt Through Time  
+- The Imaginary  
+- The Last: Naruto the Movie  
+- The Quintessential Quintuplets  
+- The Tunnel to Summer, the Exit of Goodbyes  
+- The Wind Rises  
+- The tale of princess kaguya  
+- The_Boy_and_the_Heron  
+- Vinland saga  
+- Violet Evergarden: The Movie  
+- Viral Hit  
+- Weathering with You  
+- Welcome to Japan, Ms. Elf!  
+- Words Bubble Up Like Soda Pop  
+- YU-NO  
+- Your Name  
+- darling of the fanxx  
+- drifting home  
+- sakamoto days  
+- suzume no tojomari  
+  
