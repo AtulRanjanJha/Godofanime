@@ -1,49 +1,78 @@
-# Welcome to project
+# 🌀 Godofanime  
+An immersive anime information portal built with React + TypeScript that fetches and displays detailed anime data using a service-based architecture. Features responsive components, asynchronous data fetching, and clean modular design.
 
-## Project info
+## 🚀 Features  
+🎞️ Fetch and display anime details using a custom API service  
+📄 Dynamic detail pages with cover image, title, and description  
+⚡ Built using React Query for optimized data caching and async loading  
+📱 Fully responsive and clean component structure  
+🧩 Modular service structure for future scalability
 
-## How can I edit this code?
+## 🧰 Tech Stack  
+- React + TypeScript  
+- React Query 
+- Tailwind CSS 
+- Custom API integration via service architecture  
 
-There are several ways of editing your application.
+## 🔗 Link  
+🌐 Live Demo: https://godofanime.netlify.app/
 
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 📦 Folder Structure  
+```
+Godofanime/
+├── components/
+│   └── AnimeDetail.tsx       # Displays detailed anime info
+├── services/
+│   └── AnimeService.ts       # Handles API communication
+├── types/
+│   └── anime.ts              # Defines anime type interfaces
+├── public/
+└── src/
+    └── App.tsx or main.tsx   # Main application file
 ```
 
-**Edit a file directly in GitHub**
+## 🛠️ Setup Instructions  
+1. Clone the Repository  
+   ```bash
+   git clone https://github.com/AtulRanjanJha/Godofanime.git  
+   cd Godofnime  
+   ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2. Install Dependencies  
+   ```bash
+   npm install  
+   ```
 
-**Use GitHub Codespaces**
+3. Start the Development Server  
+   ```bash
+   npm run dev  
+   ```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+4. Build for Production  
+   ```bash
+   npm run build  
+   ```
 
-## What technologies are used for this project?
+## ⚙️ API Usage  
+The anime details are fetched using a function like:  
+```ts
+AnimeService.getDetail(url)
+```  
+Update the `AnimeService.ts` file to point to your desired API endpoint.
 
-This project is built with .
+## 📸 Preview  
+<img width="1901" height="959" alt="Screenshot 2025-07-16 104413" src="https://github.com/user-attachments/assets/477afe81-3e28-4344-8a35-f62e598fcc2d" />
+<img width="1916" height="878" alt="Screenshot 2025-07-16 104451" src="https://github.com/user-attachments/assets/7b289bbd-546c-471e-a4e8-bca2658637a6" />
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
+
+## 🙌 Credits  
+- React Query for powerful async data handling  
+
+## 📄 License  
+This project is licensed under the MIT License.
+
+⚠️ **Disclaimer:**  
+This project is a prototype and does not include all anime titles. Currently, the following anime are available:
+- One Punch Man  
+- Attack on Titan (AOT)  
