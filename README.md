@@ -61,8 +61,8 @@ AnimeService.getDetail(url)
 Update the `AnimeService.ts` file to point to your desired API endpoint.
 
 ## 📸 Preview  
-<img width="1901" height="959" alt="Screenshot 2025-07-16 104413" src="https://github.com/user-attachments/assets/477afe81-3e28-4344-8a35-f62e598fcc2d" />
-<img width="1916" height="878" alt="Screenshot 2025-07-16 104451" src="https://github.com/user-attachments/assets/7b289bbd-546c-471e-a4e8-bca2658637a6" />
+<img width="951" height="959" alt="Screenshot 2025-07-16 104413" src="https://github.com/user-attachments/assets/477afe81-3e28-4344-8a35-f62e598fcc2d" />
+<img width="956" height="878" alt="Screenshot 2025-07-16 104451" src="https://github.com/user-attachments/assets/7b289bbd-546c-471e-a4e8-bca2658637a6" />
 
 
 
@@ -72,7 +72,7 @@ Update the `AnimeService.ts` file to point to your desired API endpoint.
 ## 📄 License  
 This project is licensed under the MIT License.
 
-⚠️ **Disclaimer:**  
+## ⚠️ Disclaimer:
 This project is a prototype and does not include all anime titles. Currently, the following anime are available:
 - One Punch Man  
 - Attack on Titan (AOT)  
