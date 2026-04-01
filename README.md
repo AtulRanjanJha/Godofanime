@@ -1,7 +1,6 @@
 # 🌀 Godofanime  
 An immersive anime information portal built with React + TypeScript that fetches and displays detailed anime data using a service-based architecture. Features responsive components, asynchronous data fetching, and clean modular design.
 
-
 ## 🚀 Features  
 🎞️ Fetch and display anime details using a custom API service  
 📄 Dynamic detail pages with cover image, title, and description  
