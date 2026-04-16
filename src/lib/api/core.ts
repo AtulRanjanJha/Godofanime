@@ -1,6 +1,6 @@
 
 // Core API utilities and constants
-const TMDB_API_KEY = "de83af9bf3f4cf2d61cb8a9467045768";
+const TMDB_API_KEY = "e547e17d4e91f3e62a571655cd1ccaff";
 const BASE_URL = "https://api.themoviedb.org/3";
 const ANIME_TYPE_ID = 16; // Animation genre ID in TMDB
 const LANGUAGE = "en-US"; // English language
