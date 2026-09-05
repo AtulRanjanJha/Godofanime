@@ -9,7 +9,7 @@ An immersive anime information portal built with React + TypeScript that fetches
 🧩 Modular service structure for future scalability
 
 ## 🧰 Tech Stack  
-- React + TypeScript  
+- React + TypeScript 
 - React Query 
 - Tailwind CSS 
 - Custom API integration via service architecture  
