@@ -4,7 +4,7 @@ An immersive anime information portal built with React + TypeScript that fetches
 ## 🚀 Features  
 🎞️ Fetch and display anime details using a custom API service  
 📄 Dynamic detail pages with cover image, title, and description  
-⚡ Built using React Query for optimized data caching and async loading  
+⚡ Built using React Query for optimized data caching and async loading 
 📱 Fully responsive and clean component structure  
 🧩 Modular service structure for future scalability
 
